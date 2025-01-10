@@ -1,0 +1,12 @@
+{
+  "name": "storybook-generator",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:ihor-klymchuk/storybook-generator.git",
+  "author": "Ihor Klymchuk <ihorklymchuk.dev@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "openai": "^4.78.0",
+    "ts-json-schema-generator": "^2.3.0"
+  }
+}
